@@ -10,7 +10,7 @@ const SmallCard = (props) => {
       <div className='card-small mb-4'>
         <Row>
           <Col xs={7}>
-          <img src={imgUrl} className='img-fluid' alt="Image not found"/>
+          <img src={imgUrl} className='img-fluid' alt="card-profile"/>
           </Col>
           <Col xs={3}>
             <div className='card-small-data'>
