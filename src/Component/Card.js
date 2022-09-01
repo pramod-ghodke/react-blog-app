@@ -12,7 +12,7 @@ const Card = (props) => {
     <div className="card-body mb-5">
       <Row>
        <Col  md={4}  className='card__image'>
-        <img src={imgUrl} className='img-fluid' alt="Image not found" />
+        <img src={imgUrl} className='img-fluid' alt="card-profile" />
         </Col>
         <Col md={8}>
         <div className='card-data'>
