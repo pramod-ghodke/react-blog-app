@@ -17,7 +17,7 @@ const Notfound = () => {
   <Col lg={4}>
     <h1>ERROR-404</h1>
     <h3>Page Not Found</h3>
-    <img src={error} width={300} className='img-fluid'/>
+    <img src={error} alt="404" width={300} className='img-fluid'/>
     <Link to="/"><Button>Go Back</Button></Link>
 
 
